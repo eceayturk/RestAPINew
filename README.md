@@ -6,7 +6,9 @@ With this application, it will be possible to add, remove, view and update users
 You can see the screenshots for better understanding:
 
 First let's look in Powershell with cURL 
+
 -Adding User:
+
 ![image](https://github.com/eceayturk/RestAPINew/assets/75135337/67b6f534-d422-49ad-8620-6df0ae0f80b4)
 
 -See in LOCALHOST after adding 2nd user:
