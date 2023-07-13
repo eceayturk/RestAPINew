@@ -22,6 +22,7 @@ First let's look in Powershell with cURL
 ![image](https://github.com/eceayturk/RestAPINew/assets/75135337/e1d541bc-c822-4ed4-8bb9-b385fb20266a)
 
 -Deletion of a user after several attempts:
+
 ![image](https://github.com/eceayturk/RestAPINew/assets/75135337/ab159b69-5d6b-4ca6-9f3f-357897c99751)
 
 Second let's look at in Postman!
